@@ -48,5 +48,15 @@ The following financial metrics were calculated:
 ## Key Insights
 The analysis identifies which markets generate the highest revenue and which territories provide the strongest return on marketing investment.
 
+## Dashboard
+
+Below is a preview of the financial analysis dashboard created for this project.
+
+![AdventureWorks Dashboard](dashboard_preview.png)
+
+You can also download the full dashboard here:
+
+[Download Dashboard](Financial_Dashboard.pdf)
+
 ## Author
 Juanita Pinzón
