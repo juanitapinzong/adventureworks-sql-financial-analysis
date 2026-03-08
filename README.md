@@ -1,5 +1,4 @@
-# adventureworks-sql-financial-analysis
-SQL analysis of AdventureWorks financial performance to identify high-revenue and high-ROI markets.
+
 # AdventureWorks Financial Performance Analysis (SQL)
 
 ## Project Overview
