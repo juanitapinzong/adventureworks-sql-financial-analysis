@@ -46,7 +46,15 @@ The following financial metrics were calculated:
 5. Validated results using quality checks.
 
 ## Key Insights
-The analysis identifies which markets generate the highest revenue and which territories provide the strongest return on marketing investment.
+
+The analysis revealed several important findings about market performance:
+
+- **United States** is the most profitable market, generating the highest revenue and gross profit, with the strongest marketing ROI (75.75%).
+- **Australia** shows strong revenue and a healthy profit margin, but its ROI (49.16%) is significantly lower than the United States, suggesting opportunities to optimize campaign spending.
+- **Canada** has the highest profit margin (44.76%), indicating efficient operational costs, but its marketing ROI is the lowest among the analyzed markets.
+- Some markets generate solid revenue but have relatively low marketing efficiency, indicating potential for campaign optimization.
+
+These findings suggest that marketing investments should prioritize markets with stronger ROI while reviewing campaign strategies in lower-performing territories.
 
 ## Dashboard
 
